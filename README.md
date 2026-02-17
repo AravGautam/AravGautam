@@ -9,13 +9,16 @@
 </p>
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=AravGautam&label=Profile%20Views&color=ff0055&style=for-the-badge)
+
+---
 
 <h2>🚀 About Me</h2>
 
 <p style="color:#D9D9D9;">
 🎓 <b>Computer Science Engineering Undergraduate</b><br><br>
 
-♟️ Building <b style="color:#4DFFBC;">ChessMaster</b> — a full-stack MERN real-time platform<br><br>
+♟️ Built <b style="color:#4DFFBC;">ChessMaster</b> — a full-stack MERN real-time platform<br><br>
 
 🧠 Strong focus on <b>DSA, Operating Systems & problem-solving</b><br><br>
 
@@ -32,7 +35,7 @@
 
 <p style="color:#D9D9D9;">
 <b>Primary:</b>
-<a href="https://github.com/MasterOFSnippet" style="color:#4DFFBC;">MasterOFSnippet</a><br><br>
+<a href="https://github.com/AravGautam" style="color:#4DFFBC;">Arav Gautam</a><br><br>
 
 <b>Alternate / Experiments:</b>
 <a href="https://github.com/CodeCosmonautArav" style="color:#4DFFBC;">CodeCosmonautArav</a>
