@@ -9,7 +9,10 @@
 </p>
 
 ---
+<p align="center">
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=AravGautam&label=Profile%20Views&color=ff0055&style=for-the-badge)
+</p>
 
 ---
 
